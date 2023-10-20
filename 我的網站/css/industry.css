@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-    background-color: #ffffff;
+    background-color: #6f6a5d;
     font-family:'Verdana','Hiragino Sans','Meiryo',sans-serif;
   }
 
@@ -18,7 +18,7 @@ header{
 article{
   background-color: rgb(224, 208, 188);
   border-radius: 15px;
-  margin: 25px 300px;
+  margin: 25px 70%;
   padding-bottom: 25px;
   padding-top: 25px;
 }
